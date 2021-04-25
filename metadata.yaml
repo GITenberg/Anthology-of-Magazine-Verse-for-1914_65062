@@ -1,5 +1,8 @@
 _repo: Anthology-of-Magazine-Verse-for-1914_65062
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 65062-h/images/cover.jpg
 creator:
   editor:
     agent_name: Braithwaite, William Stanley
@@ -12,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/865
     wikipedia: https://en.wikipedia.org/wiki/William_Braithwaite
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/65062#Anthology-of-Magazine-Verse-for-1914
 gutenberg_issued: '2021-04-12'
 gutenberg_type: Text
 identifiers:
